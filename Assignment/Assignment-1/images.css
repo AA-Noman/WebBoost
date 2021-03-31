@@ -1,0 +1,46 @@
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    
+}
+ol {
+    font-size: 30px;
+    line-height: 1.3;
+    margin-left: 200px;
+}
+ul {
+    font-size: 30px;
+    line-height: 1.3;
+    margin-left: 200px;
+}
+table{
+    font-size: 30px;
+    line-height: 1.3;
+    margin-left: 200px;
+    box-sizing: border-box;
+}
+form {
+    font-size: 30px;
+    line-height: 1.3;
+    margin-left: 200px;
+}
+button {
+    font-size: 30px;
+    line-height: 1.3;
+}
+body {
+    background-color: lightblue;
+    color: black;
+    }
